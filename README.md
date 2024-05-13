@@ -1,4 +1,4 @@
-# Fluence开发者奖励领取工具
+# Github开发者Fluence开发者奖励领取工具
 
 本工具允许开发者创建一个用于领取Fluence开发者奖励的签名proof
 
