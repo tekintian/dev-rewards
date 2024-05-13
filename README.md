@@ -1,3 +1,29 @@
+# Fluence开发者奖励领取工具
+
+本工具允许开发者创建一个用于领取Fluence开发者奖励的签名proof
+
+如有问题可通过QQ 932256355 或者邮件 tekintian@gmail.com 联系获取技术支持或者奖励领取帮助。
+
+
+
+## 领取步骤：
+
+登录 https://claim.fluence.network  查询是否有领取资格
+
+![claim1](./docs/claim1.png)
+
+
+
+
+
+![FLT](./docs/FLT.png)
+
+
+
+## 如果有领取资格在下载本工具生成proofs
+
+
+
 # Fluence Developer Rewards
 
 This repo allows one to generate a proof signature for Fluence dev reward claiming.
